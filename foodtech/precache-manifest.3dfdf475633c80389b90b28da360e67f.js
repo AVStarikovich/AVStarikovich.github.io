@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c2e42d1ef94c170f132192c73826656",
+    "revision": "ffb9561dfa8b1bea7892713d114d88f4",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "ddcd15f82c451d725b4b",
+    "revision": "c87168762dd62a0e5713",
     "url": "/foodtech/static/css/2.bb59309b.chunk.css"
   },
   {
-    "revision": "eb1d6dba31d4277ed8fc",
+    "revision": "92ce247faa021a21e637",
     "url": "/foodtech/static/css/main.7f94b81d.chunk.css"
   },
   {
-    "revision": "ddcd15f82c451d725b4b",
-    "url": "/foodtech/static/js/2.d793b1c5.chunk.js"
+    "revision": "c87168762dd62a0e5713",
+    "url": "/foodtech/static/js/2.56eeb2e6.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/foodtech/static/js/2.d793b1c5.chunk.js.LICENSE.txt"
+    "url": "/foodtech/static/js/2.56eeb2e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eb1d6dba31d4277ed8fc",
-    "url": "/foodtech/static/js/main.ea6fbcd0.chunk.js"
+    "revision": "92ce247faa021a21e637",
+    "url": "/foodtech/static/js/main.67d2bbee.chunk.js"
   },
   {
     "revision": "04f03e948c2b71412016",
