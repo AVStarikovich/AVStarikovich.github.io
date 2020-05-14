@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.d5aa16b0.chunk.css",
-    "main.js": "/foodtech/static/js/main.00327440.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.00327440.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.3fc8f7e7.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.3fc8f7e7.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
     "static/css/2.bb59309b.chunk.css": "/foodtech/static/css/2.bb59309b.chunk.css",
-    "static/js/2.bd08e3eb.chunk.js": "/foodtech/static/js/2.bd08e3eb.chunk.js",
-    "static/js/2.bd08e3eb.chunk.js.map": "/foodtech/static/js/2.bd08e3eb.chunk.js.map",
+    "static/js/2.c4ba1cbb.chunk.js": "/foodtech/static/js/2.c4ba1cbb.chunk.js",
+    "static/js/2.c4ba1cbb.chunk.js.map": "/foodtech/static/js/2.c4ba1cbb.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.4a15f90cae966e12ec9c4267a5288e90.js": "/foodtech/precache-manifest.4a15f90cae966e12ec9c4267a5288e90.js",
+    "precache-manifest.96a10e5511cef999afec1dea0eefc025.js": "/foodtech/precache-manifest.96a10e5511cef999afec1dea0eefc025.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/2.bb59309b.chunk.css.map": "/foodtech/static/css/2.bb59309b.chunk.css.map",
     "static/css/main.d5aa16b0.chunk.css.map": "/foodtech/static/css/main.d5aa16b0.chunk.css.map",
-    "static/js/2.bd08e3eb.chunk.js.LICENSE.txt": "/foodtech/static/js/2.bd08e3eb.chunk.js.LICENSE.txt",
+    "static/js/2.c4ba1cbb.chunk.js.LICENSE.txt": "/foodtech/static/js/2.c4ba1cbb.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/foodtech/static/media/icon.829ef678.svg",
     "static/media/HeaderAddress.scss": "/foodtech/static/media/address.34675294.svg",
     "static/media/HeaderCart.scss": "/foodtech/static/media/cart.4441295b.svg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.f28a908b.js",
     "static/css/2.bb59309b.chunk.css",
-    "static/js/2.bd08e3eb.chunk.js",
+    "static/js/2.c4ba1cbb.chunk.js",
     "static/css/main.d5aa16b0.chunk.css",
-    "static/js/main.00327440.chunk.js"
+    "static/js/main.3fc8f7e7.chunk.js"
   ]
 }
