@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.5620abf0.chunk.css",
-    "main.js": "/foodtech/static/js/main.b1129a50.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.b1129a50.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.3c42709e.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.3c42709e.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
     "static/css/2.bb59309b.chunk.css": "/foodtech/static/css/2.bb59309b.chunk.css",
-    "static/js/2.9f7d707b.chunk.js": "/foodtech/static/js/2.9f7d707b.chunk.js",
-    "static/js/2.9f7d707b.chunk.js.map": "/foodtech/static/js/2.9f7d707b.chunk.js.map",
+    "static/js/2.adfe6967.chunk.js": "/foodtech/static/js/2.adfe6967.chunk.js",
+    "static/js/2.adfe6967.chunk.js.map": "/foodtech/static/js/2.adfe6967.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.6ae009f14370ae9b585c81c8ad955599.js": "/foodtech/precache-manifest.6ae009f14370ae9b585c81c8ad955599.js",
+    "precache-manifest.cae39b8e50bb5ab3f28de51bc0c8c894.js": "/foodtech/precache-manifest.cae39b8e50bb5ab3f28de51bc0c8c894.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/2.bb59309b.chunk.css.map": "/foodtech/static/css/2.bb59309b.chunk.css.map",
     "static/css/main.5620abf0.chunk.css.map": "/foodtech/static/css/main.5620abf0.chunk.css.map",
-    "static/js/2.9f7d707b.chunk.js.LICENSE.txt": "/foodtech/static/js/2.9f7d707b.chunk.js.LICENSE.txt",
+    "static/js/2.adfe6967.chunk.js.LICENSE.txt": "/foodtech/static/js/2.adfe6967.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/foodtech/static/media/SBSansText-Thin.e8e1b2a5.woff2",
     "static/media/HeaderAddress.scss": "/foodtech/static/media/address.b8697603.svg",
     "static/media/HeaderCart.scss": "/foodtech/static/media/cart.4441295b.svg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.f28a908b.js",
     "static/css/2.bb59309b.chunk.css",
-    "static/js/2.9f7d707b.chunk.js",
+    "static/js/2.adfe6967.chunk.js",
     "static/css/main.5620abf0.chunk.css",
-    "static/js/main.b1129a50.chunk.js"
+    "static/js/main.3c42709e.chunk.js"
   ]
 }
