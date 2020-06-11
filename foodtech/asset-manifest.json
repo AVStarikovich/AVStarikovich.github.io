@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/foodtech/static/css/main.fe34c2fb.chunk.css",
-    "main.js": "/foodtech/static/js/main.8b5bc6ed.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.8b5bc6ed.chunk.js.map",
+    "main.css": "/foodtech/static/css/main.4a1c0f18.chunk.css",
+    "main.js": "/foodtech/static/js/main.c09ca85e.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.c09ca85e.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
-    "static/css/2.bb59309b.chunk.css": "/foodtech/static/css/2.bb59309b.chunk.css",
-    "static/js/2.ea9df917.chunk.js": "/foodtech/static/js/2.ea9df917.chunk.js",
-    "static/js/2.ea9df917.chunk.js.map": "/foodtech/static/js/2.ea9df917.chunk.js.map",
+    "static/js/2.f92d6876.chunk.js": "/foodtech/static/js/2.f92d6876.chunk.js",
+    "static/js/2.f92d6876.chunk.js.map": "/foodtech/static/js/2.f92d6876.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.bd51b0eaf9eb83e6d0dd3537954632c9.js": "/foodtech/precache-manifest.bd51b0eaf9eb83e6d0dd3537954632c9.js",
+    "precache-manifest.3604839f3e498d1eec986d4983acd338.js": "/foodtech/precache-manifest.3604839f3e498d1eec986d4983acd338.js",
     "service-worker.js": "/foodtech/service-worker.js",
-    "static/css/2.bb59309b.chunk.css.map": "/foodtech/static/css/2.bb59309b.chunk.css.map",
-    "static/css/main.fe34c2fb.chunk.css.map": "/foodtech/static/css/main.fe34c2fb.chunk.css.map",
-    "static/js/2.ea9df917.chunk.js.LICENSE.txt": "/foodtech/static/js/2.ea9df917.chunk.js.LICENSE.txt",
-    "static/media/Root.scss": "/foodtech/static/media/SBSansText-Thin.e8e1b2a5.woff2",
+    "static/css/main.4a1c0f18.chunk.css.map": "/foodtech/static/css/main.4a1c0f18.chunk.css.map",
+    "static/js/2.f92d6876.chunk.js.LICENSE.txt": "/foodtech/static/js/2.f92d6876.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/foodtech/static/media/SBSansText-Thin.e8e1b2a5.woff2",
     "static/media/HeaderAddress.scss": "/foodtech/static/media/address.b8697603.svg",
-    "static/media/HeaderCart.scss": "/foodtech/static/media/cart.4441295b.svg",
+    "static/media/cart.svg": "/foodtech/static/media/cart.4441295b.svg",
     "static/media/Header.scss": "/foodtech/static/media/pencil.35de6099.svg",
     "static/media/CatalogListItem.scss": "/foodtech/static/media/done.16a3c3e3.svg",
     "static/media/NoArea.scss": "/foodtech/static/media/map.14a1524d.png",
@@ -33,9 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f28a908b.js",
-    "static/css/2.bb59309b.chunk.css",
-    "static/js/2.ea9df917.chunk.js",
-    "static/css/main.fe34c2fb.chunk.css",
-    "static/js/main.8b5bc6ed.chunk.js"
+    "static/js/2.f92d6876.chunk.js",
+    "static/css/main.4a1c0f18.chunk.css",
+    "static/js/main.c09ca85e.chunk.js"
   ]
 }
