@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.a851a2e2.chunk.css",
-    "main.js": "/foodtech/static/js/main.7b04f8b2.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.7b04f8b2.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.d873bfb5.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.d873bfb5.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
-    "static/js/2.01ca5a1e.chunk.js": "/foodtech/static/js/2.01ca5a1e.chunk.js",
-    "static/js/2.01ca5a1e.chunk.js.map": "/foodtech/static/js/2.01ca5a1e.chunk.js.map",
+    "static/js/2.0ac37738.chunk.js": "/foodtech/static/js/2.0ac37738.chunk.js",
+    "static/js/2.0ac37738.chunk.js.map": "/foodtech/static/js/2.0ac37738.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.8a0a54874e37df6ca041d7add20c11fa.js": "/foodtech/precache-manifest.8a0a54874e37df6ca041d7add20c11fa.js",
+    "precache-manifest.f4bc5aae7a0284ab9b6fa8a6de0f0929.js": "/foodtech/precache-manifest.f4bc5aae7a0284ab9b6fa8a6de0f0929.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/main.a851a2e2.chunk.css.map": "/foodtech/static/css/main.a851a2e2.chunk.css.map",
-    "static/js/2.01ca5a1e.chunk.js.LICENSE.txt": "/foodtech/static/js/2.01ca5a1e.chunk.js.LICENSE.txt",
+    "static/js/2.0ac37738.chunk.js.LICENSE.txt": "/foodtech/static/js/2.0ac37738.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/foodtech/static/media/SBSansText-Thin.e8e1b2a5.woff2",
     "static/media/HeaderAddress.scss": "/foodtech/static/media/address.b8697603.svg",
     "static/media/cart.svg": "/foodtech/static/media/cart.4441295b.svg",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f28a908b.js",
-    "static/js/2.01ca5a1e.chunk.js",
+    "static/js/2.0ac37738.chunk.js",
     "static/css/main.a851a2e2.chunk.css",
-    "static/js/main.7b04f8b2.chunk.js"
+    "static/js/main.d873bfb5.chunk.js"
   ]
 }
