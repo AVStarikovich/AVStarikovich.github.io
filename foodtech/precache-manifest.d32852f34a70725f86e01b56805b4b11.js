@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0446ac9290ea66875d6d6811d8665755",
+    "revision": "02d90875337c7a203834f58c46baf350",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "437ad9efdf0c3f21b51f",
+    "revision": "7f58e30bb8cd4c593b60",
     "url": "/foodtech/static/css/main.8c2686ae.chunk.css"
   },
   {
-    "revision": "e17051bfdda9201635e3",
-    "url": "/foodtech/static/js/2.e9bc7545.chunk.js"
+    "revision": "b0ae9828d7ceb86433fb",
+    "url": "/foodtech/static/js/2.057914a2.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/foodtech/static/js/2.e9bc7545.chunk.js.LICENSE.txt"
+    "url": "/foodtech/static/js/2.057914a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "437ad9efdf0c3f21b51f",
-    "url": "/foodtech/static/js/main.3a5c95d4.chunk.js"
+    "revision": "7f58e30bb8cd4c593b60",
+    "url": "/foodtech/static/js/main.ccf0fb7c.chunk.js"
   },
   {
     "revision": "04f03e948c2b71412016",
@@ -172,6 +172,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/media/bg.9b1bf414.jpg"
   },
   {
+    "revision": "1c0b9508aeb312a25248c59a4a43623e",
+    "url": "/foodtech/static/media/bg@touch.1c0b9508.jpg"
+  },
+  {
     "revision": "2c4b0c43ee1c0386f2d1e90b37b18d6d",
     "url": "/foodtech/static/media/cart.2c4b0c43.svg"
   },
@@ -236,24 +240,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/media/plus.9af213dd.svg"
   },
   {
+    "revision": "fe1b0e1add3f91aa4bee21e00f487d0e",
+    "url": "/foodtech/static/media/popcorn-bites.fe1b0e1a.png"
+  },
+  {
     "revision": "518d9c78a2417cb314a0cc67ca19ddb5",
-    "url": "/foodtech/static/media/popcorn-1.518d9c78.png"
+    "url": "/foodtech/static/media/popcorn-box_1.518d9c78.png"
   },
   {
     "revision": "24d90011d3a3dffd18bfe3190e9fc61b",
-    "url": "/foodtech/static/media/popcorn-2.24d90011.png"
+    "url": "/foodtech/static/media/popcorn-box_2.24d90011.png"
   },
   {
     "revision": "d74534413fa34227136102d946e4f352",
-    "url": "/foodtech/static/media/popcorn-3.d7453441.png"
+    "url": "/foodtech/static/media/popcorn-box_3.d7453441.png"
   },
   {
     "revision": "482bbaa4710a1d730fd28dc6106d188e",
-    "url": "/foodtech/static/media/popcorn-4.482bbaa4.png"
-  },
-  {
-    "revision": "fe1b0e1add3f91aa4bee21e00f487d0e",
-    "url": "/foodtech/static/media/popcorn-bites.fe1b0e1a.png"
+    "url": "/foodtech/static/media/popcorn-box_4.482bbaa4.png"
   },
   {
     "revision": "856b6a9579c9d7b31d432f655c900369",
