@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b8432d351256e54f9a1bd89792591a5",
+    "revision": "479e51445b805f83b1df45bed808ef1b",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "aefbf1a02f73ad704d2a",
+    "revision": "e7bb15868d37dfd19abf",
     "url": "/foodtech/static/css/main.8c2686ae.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/js/2.4ec38d18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aefbf1a02f73ad704d2a",
-    "url": "/foodtech/static/js/main.7c7fd2e8.chunk.js"
+    "revision": "e7bb15868d37dfd19abf",
+    "url": "/foodtech/static/js/main.b4dfc69c.chunk.js"
   },
   {
     "revision": "04f03e948c2b71412016",
@@ -164,12 +164,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/media/background-tv-sber.c2fb7871.jpg"
   },
   {
-    "revision": "7bd6b36bd491f401f414cb62d63f2753",
-    "url": "/foodtech/static/media/bg.7bd6b36b.jpg"
+    "revision": "729407a23e280adbf16d181e586efb08",
+    "url": "/foodtech/static/media/bg.729407a2.jpg"
   },
   {
-    "revision": "9b1bf41403dd059ac146ab4c0dd6b57f",
-    "url": "/foodtech/static/media/bg.9b1bf414.jpg"
+    "revision": "7b30988f8bd6f51e9e9b09edb6b44b96",
+    "url": "/foodtech/static/media/bg.7b30988f.jpg"
   },
   {
     "revision": "1c0b9508aeb312a25248c59a4a43623e",

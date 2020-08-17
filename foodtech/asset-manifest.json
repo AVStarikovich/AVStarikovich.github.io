@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.8c2686ae.chunk.css",
-    "main.js": "/foodtech/static/js/main.7c7fd2e8.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.7c7fd2e8.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.b4dfc69c.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.b4dfc69c.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
     "static/js/2.4ec38d18.chunk.js": "/foodtech/static/js/2.4ec38d18.chunk.js",
     "static/js/2.4ec38d18.chunk.js.map": "/foodtech/static/js/2.4ec38d18.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.872d985ea51795c3a0ee6bb586ced25e.js": "/foodtech/precache-manifest.872d985ea51795c3a0ee6bb586ced25e.js",
+    "precache-manifest.af12eabfa0627d6c6930c877f3a4d9a8.js": "/foodtech/precache-manifest.af12eabfa0627d6c6930c877f3a4d9a8.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/main.8c2686ae.chunk.css.map": "/foodtech/static/css/main.8c2686ae.chunk.css.map",
     "static/js/2.4ec38d18.chunk.js.LICENSE.txt": "/foodtech/static/js/2.4ec38d18.chunk.js.LICENSE.txt",
@@ -16,7 +16,7 @@
     "static/media/add.svg": "/foodtech/static/media/add.6f87e0cb.svg",
     "static/media/address.svg": "/foodtech/static/media/address.786915f5.svg",
     "static/media/background-tv-sber.jpg": "/foodtech/static/media/background-tv-sber.c2fb7871.jpg",
-    "static/media/bg.jpg": "/foodtech/static/media/bg.9b1bf414.jpg",
+    "static/media/bg.jpg": "/foodtech/static/media/bg.7b30988f.jpg",
     "static/media/bg@touch.jpg": "/foodtech/static/media/bg@touch.1c0b9508.jpg",
     "static/media/cart.svg": "/foodtech/static/media/cart.2c4b0c43.svg",
     "static/media/chevron-left.svg": "/foodtech/static/media/chevron-left.88658df7.svg",
@@ -48,6 +48,6 @@
     "static/js/runtime-main.f28a908b.js",
     "static/js/2.4ec38d18.chunk.js",
     "static/css/main.8c2686ae.chunk.css",
-    "static/js/main.7c7fd2e8.chunk.js"
+    "static/js/main.b4dfc69c.chunk.js"
   ]
 }
