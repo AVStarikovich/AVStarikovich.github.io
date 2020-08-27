@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66bdd8b620df46c0c3c34cc57935971f",
+    "revision": "9b23c22a1505683a7fdd6ac8c6be94ea",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "ed0dc8b4533a7c25ef9e",
-    "url": "/foodtech/static/css/2.1f5a018c.chunk.css"
-  },
-  {
-    "revision": "d78d6ffbdd279cbc94fd",
+    "revision": "af4e9925511e7f65a379",
     "url": "/foodtech/static/css/main.8c2686ae.chunk.css"
   },
   {
-    "revision": "ed0dc8b4533a7c25ef9e",
-    "url": "/foodtech/static/js/2.dc95cf00.chunk.js"
+    "revision": "1845774598420c8753b5",
+    "url": "/foodtech/static/js/2.4ec38d18.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/foodtech/static/js/2.dc95cf00.chunk.js.LICENSE.txt"
+    "url": "/foodtech/static/js/2.4ec38d18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d78d6ffbdd279cbc94fd",
-    "url": "/foodtech/static/js/main.36c5df26.chunk.js"
+    "revision": "af4e9925511e7f65a379",
+    "url": "/foodtech/static/js/main.7c67e13f.chunk.js"
   },
   {
     "revision": "04f03e948c2b71412016",
@@ -262,10 +258,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "482bbaa4710a1d730fd28dc6106d188e",
     "url": "/foodtech/static/media/popcorn-box_4.482bbaa4.png"
-  },
-  {
-    "revision": "04f6d88fd33381e14a2eff6c4d102599",
-    "url": "/foodtech/static/media/popcorn-promo.04f6d88f.png"
   },
   {
     "revision": "856b6a9579c9d7b31d432f655c900369",
