@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.8c2686ae.chunk.css",
-    "main.js": "/foodtech/static/js/main.7c67e13f.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.7c67e13f.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.bf90f6e3.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.bf90f6e3.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
     "static/js/2.4ec38d18.chunk.js": "/foodtech/static/js/2.4ec38d18.chunk.js",
     "static/js/2.4ec38d18.chunk.js.map": "/foodtech/static/js/2.4ec38d18.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.d5d6e0cbf40174be91edba68b616ecf7.js": "/foodtech/precache-manifest.d5d6e0cbf40174be91edba68b616ecf7.js",
+    "precache-manifest.ccc356e5fa14fcbc7830acf3144cbff4.js": "/foodtech/precache-manifest.ccc356e5fa14fcbc7830acf3144cbff4.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/main.8c2686ae.chunk.css.map": "/foodtech/static/css/main.8c2686ae.chunk.css.map",
     "static/js/2.4ec38d18.chunk.js.LICENSE.txt": "/foodtech/static/js/2.4ec38d18.chunk.js.LICENSE.txt",
@@ -48,6 +48,6 @@
     "static/js/runtime-main.f28a908b.js",
     "static/js/2.4ec38d18.chunk.js",
     "static/css/main.8c2686ae.chunk.css",
-    "static/js/main.7c67e13f.chunk.js"
+    "static/js/main.bf90f6e3.chunk.js"
   ]
 }
