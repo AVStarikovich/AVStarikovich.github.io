@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.8c2686ae.chunk.css",
-    "main.js": "/foodtech/static/js/main.60fd1667.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.60fd1667.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.366e2011.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.366e2011.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
-    "static/js/2.48d68c74.chunk.js": "/foodtech/static/js/2.48d68c74.chunk.js",
-    "static/js/2.48d68c74.chunk.js.map": "/foodtech/static/js/2.48d68c74.chunk.js.map",
+    "static/js/2.bfb705be.chunk.js": "/foodtech/static/js/2.bfb705be.chunk.js",
+    "static/js/2.bfb705be.chunk.js.map": "/foodtech/static/js/2.bfb705be.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.74dbcc613e595fc61a8a37309e1a7702.js": "/foodtech/precache-manifest.74dbcc613e595fc61a8a37309e1a7702.js",
+    "precache-manifest.9fec9587803fdd90db250dd66822bf5b.js": "/foodtech/precache-manifest.9fec9587803fdd90db250dd66822bf5b.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/main.8c2686ae.chunk.css.map": "/foodtech/static/css/main.8c2686ae.chunk.css.map",
-    "static/js/2.48d68c74.chunk.js.LICENSE.txt": "/foodtech/static/js/2.48d68c74.chunk.js.LICENSE.txt",
+    "static/js/2.bfb705be.chunk.js.LICENSE.txt": "/foodtech/static/js/2.bfb705be.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/foodtech/static/media/SBSansText-Thin.e8e1b2a5.woff2",
     "static/media/add.svg": "/foodtech/static/media/add.6f87e0cb.svg",
     "static/media/address.svg": "/foodtech/static/media/address.786915f5.svg",
@@ -41,6 +41,7 @@
     "static/media/popcorn-box_2.png": "/foodtech/static/media/popcorn-box_2.24d90011.png",
     "static/media/popcorn-box_3.png": "/foodtech/static/media/popcorn-box_3.d7453441.png",
     "static/media/popcorn-box_4.png": "/foodtech/static/media/popcorn-box_4.482bbaa4.png",
+    "static/media/popcorn-promo.png": "/foodtech/static/media/popcorn-promo.04f6d88f.png",
     "static/media/remove.svg": "/foodtech/static/media/remove.856b6a95.svg",
     "static/media/shadow.svg": "/foodtech/static/media/shadow.bb1d84f8.svg",
     "static/media/spinner.svg": "/foodtech/static/media/spinner.ee0e70c4.svg",
@@ -48,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f28a908b.js",
-    "static/js/2.48d68c74.chunk.js",
+    "static/js/2.bfb705be.chunk.js",
     "static/css/main.8c2686ae.chunk.css",
-    "static/js/main.60fd1667.chunk.js"
+    "static/js/main.366e2011.chunk.js"
   ]
 }
