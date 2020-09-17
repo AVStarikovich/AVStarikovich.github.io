@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.8c2686ae.chunk.css",
-    "main.js": "/foodtech/static/js/main.49145f96.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.49145f96.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.1600e16b.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.1600e16b.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
-    "static/js/2.016b6d44.chunk.js": "/foodtech/static/js/2.016b6d44.chunk.js",
-    "static/js/2.016b6d44.chunk.js.map": "/foodtech/static/js/2.016b6d44.chunk.js.map",
+    "static/js/2.d7634d00.chunk.js": "/foodtech/static/js/2.d7634d00.chunk.js",
+    "static/js/2.d7634d00.chunk.js.map": "/foodtech/static/js/2.d7634d00.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.36f3d83a3f48f05b1b4f85a97e377191.js": "/foodtech/precache-manifest.36f3d83a3f48f05b1b4f85a97e377191.js",
+    "precache-manifest.d3746bcd460f8dedc862bde6c17ed10d.js": "/foodtech/precache-manifest.d3746bcd460f8dedc862bde6c17ed10d.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/main.8c2686ae.chunk.css.map": "/foodtech/static/css/main.8c2686ae.chunk.css.map",
-    "static/js/2.016b6d44.chunk.js.LICENSE.txt": "/foodtech/static/js/2.016b6d44.chunk.js.LICENSE.txt",
+    "static/js/2.d7634d00.chunk.js.LICENSE.txt": "/foodtech/static/js/2.d7634d00.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/foodtech/static/media/SBSansText-Thin.e8e1b2a5.woff2",
     "static/media/add.svg": "/foodtech/static/media/add.6f87e0cb.svg",
     "static/media/address.svg": "/foodtech/static/media/address.786915f5.svg",
     "static/media/background-tv-sber.jpg": "/foodtech/static/media/background-tv-sber.c2fb7871.jpg",
     "static/media/bg.jpg": "/foodtech/static/media/bg.7b30988f.jpg",
+    "static/media/bg.png": "/foodtech/static/media/bg.d9188979.png",
     "static/media/bg@touch.jpg": "/foodtech/static/media/bg@touch.1c0b9508.jpg",
     "static/media/cart.svg": "/foodtech/static/media/cart.f9b30afb.svg",
     "static/media/chevron-left.svg": "/foodtech/static/media/chevron-left.88658df7.svg",
@@ -49,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f28a908b.js",
-    "static/js/2.016b6d44.chunk.js",
+    "static/js/2.d7634d00.chunk.js",
     "static/css/main.8c2686ae.chunk.css",
-    "static/js/main.49145f96.chunk.js"
+    "static/js/main.1600e16b.chunk.js"
   ]
 }
