@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57eb243161892d6970c6a992e1b2a972",
+    "revision": "f68ebfda4aef8ec9fac561212eb482fe",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "7f3dbda44322a56c1f29",
+    "revision": "4d4ec18b2f91aa76c1ed",
     "url": "/foodtech/static/css/main.8c2686ae.chunk.css"
   },
   {
-    "revision": "b0123bf95cb0f6ecf5e9",
-    "url": "/foodtech/static/js/2.643dfee2.chunk.js"
+    "revision": "5343d4845ce1f8ca146c",
+    "url": "/foodtech/static/js/2.b15b64ae.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/foodtech/static/js/2.643dfee2.chunk.js.LICENSE.txt"
+    "url": "/foodtech/static/js/2.b15b64ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f3dbda44322a56c1f29",
-    "url": "/foodtech/static/js/main.58914900.chunk.js"
+    "revision": "4d4ec18b2f91aa76c1ed",
+    "url": "/foodtech/static/js/main.aed4fbcf.chunk.js"
   },
   {
     "revision": "04f03e948c2b71412016",
@@ -172,6 +172,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/media/bg.7b30988f.jpg"
   },
   {
+    "revision": "d9188979622f8d6670ee9014b1fe8e6c",
+    "url": "/foodtech/static/media/bg.d9188979.png"
+  },
+  {
     "revision": "1c0b9508aeb312a25248c59a4a43623e",
     "url": "/foodtech/static/media/bg@touch.1c0b9508.jpg"
   },
@@ -244,6 +248,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/media/logo.1072bc0d.svg"
   },
   {
+    "revision": "fef57d30f72053685c5351d90b78467d",
+    "url": "/foodtech/static/media/plasma-ball.fef57d30.svg"
+  },
+  {
     "revision": "9af213dde3367644bac2da5a876e5047",
     "url": "/foodtech/static/media/plus.9af213dd.svg"
   },
@@ -264,8 +272,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/media/popcorn-box_4.482bbaa4.png"
   },
   {
-    "revision": "bec95c9a74f9aa7473bdf501ff067557",
-    "url": "/foodtech/static/media/popcorn-promo.bec95c9a.png"
+    "revision": "e5aa0e8a71dc7237777f1b2fd414a4e1",
+    "url": "/foodtech/static/media/popcorn-promo.e5aa0e8a.png"
   },
   {
     "revision": "856b6a9579c9d7b31d432f655c900369",
