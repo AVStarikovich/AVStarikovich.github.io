@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5031c9a7cc0f171c7110413ed27edb00",
+    "revision": "1b528779abacf1acd6db34846ce84e4a",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "9d6b48cde57a61a744d7",
+    "revision": "634404408187bd7b0c07",
     "url": "/foodtech/static/css/main.8c2686ae.chunk.css"
   },
   {
-    "revision": "347f5a6bce0c8e3cd3f3",
-    "url": "/foodtech/static/js/2.633e3827.chunk.js"
+    "revision": "b4d5337663e404bb90dc",
+    "url": "/foodtech/static/js/2.d45b332b.chunk.js"
   },
   {
-    "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/foodtech/static/js/2.633e3827.chunk.js.LICENSE.txt"
+    "revision": "50320e1f1867c766b5d4b601e32e0203",
+    "url": "/foodtech/static/js/2.d45b332b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d6b48cde57a61a744d7",
-    "url": "/foodtech/static/js/main.ce354353.chunk.js"
+    "revision": "634404408187bd7b0c07",
+    "url": "/foodtech/static/js/main.01e2f585.chunk.js"
   },
   {
     "revision": "04f03e948c2b71412016",
@@ -172,10 +172,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodtech/static/media/bg.7b30988f.jpg"
   },
   {
-    "revision": "d9188979622f8d6670ee9014b1fe8e6c",
-    "url": "/foodtech/static/media/bg.d9188979.png"
-  },
-  {
     "revision": "1c0b9508aeb312a25248c59a4a43623e",
     "url": "/foodtech/static/media/bg@touch.1c0b9508.jpg"
   },
@@ -202,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f4143229ef923262ffdb0c3a6d9451f3",
     "url": "/foodtech/static/media/done.f4143229.svg"
+  },
+  {
+    "revision": "38d66d0b766523164e030a97a53ed971",
+    "url": "/foodtech/static/media/empty.38d66d0b.svg"
   },
   {
     "revision": "1bb45b139f907cd4ce9290336eef8230",
@@ -290,10 +290,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bb1d84f829b588ae69a80d71b91f70cf",
     "url": "/foodtech/static/media/shadow.bb1d84f8.svg"
-  },
-  {
-    "revision": "ee0e70c4bdc375a954af1eea2b9ac6b2",
-    "url": "/foodtech/static/media/spinner.ee0e70c4.svg"
   },
   {
     "revision": "9e79354ffec60ed91a969c59590e1c45",
