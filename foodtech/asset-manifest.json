@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/foodtech/static/css/main.8c2686ae.chunk.css",
-    "main.js": "/foodtech/static/js/main.11fdcaf1.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.11fdcaf1.chunk.js.map",
+    "main.js": "/foodtech/static/js/main.9d2e371f.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.9d2e371f.chunk.js.map",
     "runtime-main.js": "/foodtech/static/js/runtime-main.f28a908b.js",
     "runtime-main.js.map": "/foodtech/static/js/runtime-main.f28a908b.js.map",
-    "static/js/2.f17a872f.chunk.js": "/foodtech/static/js/2.f17a872f.chunk.js",
-    "static/js/2.f17a872f.chunk.js.map": "/foodtech/static/js/2.f17a872f.chunk.js.map",
+    "static/js/2.78fb3821.chunk.js": "/foodtech/static/js/2.78fb3821.chunk.js",
+    "static/js/2.78fb3821.chunk.js.map": "/foodtech/static/js/2.78fb3821.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.9f56fba38c11b37ccae9e3813fa610cf.js": "/foodtech/precache-manifest.9f56fba38c11b37ccae9e3813fa610cf.js",
+    "precache-manifest.c4f1aa873af3343c99acdb4bcd667cbb.js": "/foodtech/precache-manifest.c4f1aa873af3343c99acdb4bcd667cbb.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/main.8c2686ae.chunk.css.map": "/foodtech/static/css/main.8c2686ae.chunk.css.map",
-    "static/js/2.f17a872f.chunk.js.LICENSE.txt": "/foodtech/static/js/2.f17a872f.chunk.js.LICENSE.txt",
+    "static/js/2.78fb3821.chunk.js.LICENSE.txt": "/foodtech/static/js/2.78fb3821.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/foodtech/static/media/SBSansText-Thin.e8e1b2a5.woff2",
     "static/media/add.svg": "/foodtech/static/media/add.6f87e0cb.svg",
     "static/media/address.svg": "/foodtech/static/media/address.786915f5.svg",
@@ -47,13 +47,14 @@
     "static/media/popcorn-promo.png": "/foodtech/static/media/popcorn-promo.bec95c9a.png",
     "static/media/remove.svg": "/foodtech/static/media/remove.856b6a95.svg",
     "static/media/shadow.svg": "/foodtech/static/media/shadow.bb1d84f8.svg",
+    "static/media/spinner.svg": "/foodtech/static/media/spinner.ee0e70c4.svg",
     "static/media/success.svg": "/foodtech/static/media/success.9e79354f.svg",
     "static/media/warning.svg": "/foodtech/static/media/warning.4908c73c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f28a908b.js",
-    "static/js/2.f17a872f.chunk.js",
+    "static/js/2.78fb3821.chunk.js",
     "static/css/main.8c2686ae.chunk.css",
-    "static/js/main.11fdcaf1.chunk.js"
+    "static/js/main.9d2e371f.chunk.js"
   ]
 }
