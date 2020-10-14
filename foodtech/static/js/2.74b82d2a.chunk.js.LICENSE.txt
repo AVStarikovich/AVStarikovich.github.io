@@ -5,6 +5,15 @@ object-assign
 */
 
 /*!
+     * UAParser.js v0.7.21
+     * Lightweight JavaScript-based User-Agent string parser
+     * https://github.com/faisalman/ua-parser-js
+     *
+     * Copyright © 2012-2019 Faisal Salman <f@faisalman.com>
+     * Licensed under MIT License
+     */
+
+/*!
    Transformation Matrix v2.0
    (c) Epistemex 2014-2015
    www.epistemex.com
@@ -12,6 +21,13 @@ object-assign
    Contributions by leeoniya.
    License: MIT, header required.
    */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
 
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation. All rights reserved.
