@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d61ac3f5abc756a75d4fec4b7958c8d",
+    "revision": "5de484495497efcb1b20883b945dc992",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "a5ef9e97d1daef25042f",
+    "revision": "27af5d32c1c3fdb1fa8e",
     "url": "/foodtech/static/css/main.8c2686ae.chunk.css"
   },
   {
-    "revision": "afeceb705343763cc51c",
-    "url": "/foodtech/static/js/2.d5fc559f.chunk.js"
+    "revision": "ccff0e6b5128f704597d",
+    "url": "/foodtech/static/js/2.e71f1060.chunk.js"
   },
   {
     "revision": "139f03456ab710083579b00c9c9f7872",
-    "url": "/foodtech/static/js/2.d5fc559f.chunk.js.LICENSE.txt"
+    "url": "/foodtech/static/js/2.e71f1060.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5ef9e97d1daef25042f",
-    "url": "/foodtech/static/js/main.665449a3.chunk.js"
+    "revision": "27af5d32c1c3fdb1fa8e",
+    "url": "/foodtech/static/js/main.9904a5f8.chunk.js"
   },
   {
     "revision": "04f03e948c2b71412016",
