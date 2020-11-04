@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/foodtech/precache-manifest.87c694a9eb125088ef4a11f49bd0c6c5.js"
+  "/foodtech/precache-manifest.b9ef0c95a68c3a4e3335d1d32aa7290d.js"
 );
 
 self.addEventListener('message', (event) => {
