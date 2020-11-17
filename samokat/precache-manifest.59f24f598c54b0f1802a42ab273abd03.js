@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a36b613f4d2c29691294b3b43820a54",
+    "revision": "7306e59c88c2793ae8bf7e85cd180dde",
     "url": "/samokat/index.html"
   },
   {
-    "revision": "479e4f7c1a4a8d828c52",
+    "revision": "5056017730d779d7803c",
     "url": "/samokat/static/css/8.cc09165d.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samokat/static/js/0.302afa96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "479e4f7c1a4a8d828c52",
-    "url": "/samokat/static/js/8.1277fd84.chunk.js"
+    "revision": "5056017730d779d7803c",
+    "url": "/samokat/static/js/8.d68bef47.chunk.js"
   },
   {
     "revision": "0be1b25015755686851596bb9f9baf56",
-    "url": "/samokat/static/js/8.1277fd84.chunk.js.LICENSE.txt"
+    "url": "/samokat/static/js/8.d68bef47.chunk.js.LICENSE.txt"
   },
   {
     "revision": "0b821cb551e02cb2f916",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samokat/static/js/Wait.da34f63f.chunk.js"
   },
   {
-    "revision": "3a71f3cdc12362a36770",
-    "url": "/samokat/static/js/main.45c6da5f.chunk.js"
+    "revision": "f6ce41379bedc454f112",
+    "url": "/samokat/static/js/main.ee6c9c78.chunk.js"
   },
   {
     "revision": "690a6151b38ffce44f92",
