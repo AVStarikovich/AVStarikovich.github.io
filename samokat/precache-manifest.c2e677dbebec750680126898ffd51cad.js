@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7306e59c88c2793ae8bf7e85cd180dde",
+    "revision": "6d8c02fa11795e3e77d17a3d805b38be",
     "url": "/samokat/index.html"
   },
   {
-    "revision": "5056017730d779d7803c",
+    "revision": "52dd9e541b8e42e900b6",
     "url": "/samokat/static/css/8.cc09165d.chunk.css"
   },
   {
@@ -16,40 +16,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samokat/static/js/0.302afa96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5056017730d779d7803c",
-    "url": "/samokat/static/js/8.d68bef47.chunk.js"
+    "revision": "52dd9e541b8e42e900b6",
+    "url": "/samokat/static/js/8.79b381ac.chunk.js"
   },
   {
     "revision": "0be1b25015755686851596bb9f9baf56",
-    "url": "/samokat/static/js/8.d68bef47.chunk.js.LICENSE.txt"
+    "url": "/samokat/static/js/8.79b381ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b821cb551e02cb2f916",
-    "url": "/samokat/static/js/AddressFullAll.800e5c32.chunk.js"
+    "revision": "ce9d0f9ca7c5d5a450fc",
+    "url": "/samokat/static/js/AddressFullAll.ae9c9e7e.chunk.js"
   },
   {
-    "revision": "4d32514de5046b75e0a9",
-    "url": "/samokat/static/js/Cart.99cd26d6.chunk.js"
+    "revision": "9a42ac80ad4d5a05ab20",
+    "url": "/samokat/static/js/Cart.9c7a6efe.chunk.js"
   },
   {
-    "revision": "0ef843597d64e5f9e6c4",
-    "url": "/samokat/static/js/Catalog.0d52f0da.chunk.js"
+    "revision": "eb6dbd74be0743fb0935",
+    "url": "/samokat/static/js/Catalog.2bc369a2.chunk.js"
   },
   {
-    "revision": "bd457e003dff88bb2e16",
-    "url": "/samokat/static/js/Success.db99b79f.chunk.js"
+    "revision": "dd974dc10bbfe8860f5a",
+    "url": "/samokat/static/js/Success.bec43b96.chunk.js"
   },
   {
-    "revision": "2307e0ff6ba051c3d418",
-    "url": "/samokat/static/js/Wait.da34f63f.chunk.js"
+    "revision": "9e7e0ff49b2dd310803f",
+    "url": "/samokat/static/js/Wait.0e376a23.chunk.js"
   },
   {
-    "revision": "f6ce41379bedc454f112",
-    "url": "/samokat/static/js/main.ee6c9c78.chunk.js"
+    "revision": "80d6d3dbda986e182b74",
+    "url": "/samokat/static/js/main.7762bbe5.chunk.js"
   },
   {
-    "revision": "690a6151b38ffce44f92",
-    "url": "/samokat/static/js/runtime-main.9deca700.js"
+    "revision": "4949640f7d5c1cc96196",
+    "url": "/samokat/static/js/runtime-main.21bd7fdb.js"
   },
   {
     "revision": "6f87e0cb55b2f9b3961ed13cdb86ae59",
