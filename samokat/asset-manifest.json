@@ -12,15 +12,15 @@
     "Success.js.map": "/samokat/static/js/Success.9d138dec.chunk.js.map",
     "Wait.js": "/samokat/static/js/Wait.54ed711f.chunk.js",
     "Wait.js.map": "/samokat/static/js/Wait.54ed711f.chunk.js.map",
-    "main.js": "/samokat/static/js/main.feeb9479.chunk.js",
-    "main.js.map": "/samokat/static/js/main.feeb9479.chunk.js.map",
+    "main.js": "/samokat/static/js/main.d21a6c95.chunk.js",
+    "main.js.map": "/samokat/static/js/main.d21a6c95.chunk.js.map",
     "runtime-main.js": "/samokat/static/js/runtime-main.036570a0.js",
     "runtime-main.js.map": "/samokat/static/js/runtime-main.036570a0.js.map",
     "static/css/8.367644e5.chunk.css": "/samokat/static/css/8.367644e5.chunk.css",
     "static/js/8.815c0330.chunk.js": "/samokat/static/js/8.815c0330.chunk.js",
     "static/js/8.815c0330.chunk.js.map": "/samokat/static/js/8.815c0330.chunk.js.map",
     "index.html": "/samokat/index.html",
-    "precache-manifest.a8b010e76c5196427eb2cd4462adca98.js": "/samokat/precache-manifest.a8b010e76c5196427eb2cd4462adca98.js",
+    "precache-manifest.6584907bb1ed001c166e907b105cf875.js": "/samokat/precache-manifest.6584907bb1ed001c166e907b105cf875.js",
     "service-worker.js": "/samokat/service-worker.js",
     "static/css/8.367644e5.chunk.css.map": "/samokat/static/css/8.367644e5.chunk.css.map",
     "static/js/0.e193e2d3.chunk.js.LICENSE.txt": "/samokat/static/js/0.e193e2d3.chunk.js.LICENSE.txt",
@@ -67,6 +67,6 @@
     "static/js/runtime-main.036570a0.js",
     "static/css/8.367644e5.chunk.css",
     "static/js/8.815c0330.chunk.js",
-    "static/js/main.feeb9479.chunk.js"
+    "static/js/main.d21a6c95.chunk.js"
   ]
 }

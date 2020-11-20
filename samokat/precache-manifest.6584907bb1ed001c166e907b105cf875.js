@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c33ca98e2f7ef68327fb60bf40d277d8",
+    "revision": "c8859dc67464152a897fb29fabc26e33",
     "url": "/samokat/index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samokat/static/js/Wait.54ed711f.chunk.js"
   },
   {
-    "revision": "547a9c816f1c625fa9a1",
-    "url": "/samokat/static/js/main.feeb9479.chunk.js"
+    "revision": "038219c611731a69a942",
+    "url": "/samokat/static/js/main.d21a6c95.chunk.js"
   },
   {
     "revision": "2a93b1a6281941dabf86",
