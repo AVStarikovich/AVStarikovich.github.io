@@ -12,19 +12,19 @@
     "Success.js.map": "/samokat/static/js/Success.9d138dec.chunk.js.map",
     "Wait.js": "/samokat/static/js/Wait.54ed711f.chunk.js",
     "Wait.js.map": "/samokat/static/js/Wait.54ed711f.chunk.js.map",
-    "main.js": "/samokat/static/js/main.e7cc91d8.chunk.js",
-    "main.js.map": "/samokat/static/js/main.e7cc91d8.chunk.js.map",
+    "main.js": "/samokat/static/js/main.693365f5.chunk.js",
+    "main.js.map": "/samokat/static/js/main.693365f5.chunk.js.map",
     "runtime-main.js": "/samokat/static/js/runtime-main.036570a0.js",
     "runtime-main.js.map": "/samokat/static/js/runtime-main.036570a0.js.map",
     "static/css/8.367644e5.chunk.css": "/samokat/static/css/8.367644e5.chunk.css",
-    "static/js/8.ac48a482.chunk.js": "/samokat/static/js/8.ac48a482.chunk.js",
-    "static/js/8.ac48a482.chunk.js.map": "/samokat/static/js/8.ac48a482.chunk.js.map",
+    "static/js/8.5a9b5baa.chunk.js": "/samokat/static/js/8.5a9b5baa.chunk.js",
+    "static/js/8.5a9b5baa.chunk.js.map": "/samokat/static/js/8.5a9b5baa.chunk.js.map",
     "index.html": "/samokat/index.html",
-    "precache-manifest.7b3413d0b8697b1179c3a183f8ef32d6.js": "/samokat/precache-manifest.7b3413d0b8697b1179c3a183f8ef32d6.js",
+    "precache-manifest.7e4f4dccc5647d029d918927f982b8e9.js": "/samokat/precache-manifest.7e4f4dccc5647d029d918927f982b8e9.js",
     "service-worker.js": "/samokat/service-worker.js",
     "static/css/8.367644e5.chunk.css.map": "/samokat/static/css/8.367644e5.chunk.css.map",
     "static/js/0.e193e2d3.chunk.js.LICENSE.txt": "/samokat/static/js/0.e193e2d3.chunk.js.LICENSE.txt",
-    "static/js/8.ac48a482.chunk.js.LICENSE.txt": "/samokat/static/js/8.ac48a482.chunk.js.LICENSE.txt",
+    "static/js/8.5a9b5baa.chunk.js.LICENSE.txt": "/samokat/static/js/8.5a9b5baa.chunk.js.LICENSE.txt",
     "static/media/add.svg": "/samokat/static/media/add.6f87e0cb.svg",
     "static/media/address.786915f5.svg": "/samokat/static/media/address.786915f5.svg",
     "static/media/bg.jpg": "/samokat/static/media/bg.a2ee825f.jpg",
@@ -66,7 +66,7 @@
   "entrypoints": [
     "static/js/runtime-main.036570a0.js",
     "static/css/8.367644e5.chunk.css",
-    "static/js/8.ac48a482.chunk.js",
-    "static/js/main.e7cc91d8.chunk.js"
+    "static/js/8.5a9b5baa.chunk.js",
+    "static/js/main.693365f5.chunk.js"
   ]
 }
