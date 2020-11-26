@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/samokat/precache-manifest.ecb1fa54a09ca48747bbbe30c6a7065d.js"
+  "/samokat/precache-manifest.f494dbb036d086e0cc59162a36d8f6a8.js"
 );
 
 self.addEventListener('message', (event) => {
